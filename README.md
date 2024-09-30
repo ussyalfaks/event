@@ -1,6 +1,14 @@
 # Event Countdown Pro
 ## Overview
 Event Countdown Pro is a web application designed to help users manage and keep track of upcoming events with categories. The application includes features like adding events, categorizing them, viewing a calendar, and seeing a countdown to each event. It is built using HTML, Tailwind CSS, and JavaScript with LocalStorage for data persistence.
+## Screenshort
+
+![image](https://github.com/user-attachments/assets/d4750408-ad9b-4bf8-833d-e5f7a33e44d0)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/be6dffce-2199-449e-a4b7-14fc98b17285)
+
 
 ## Features
 Add New Event: Users can add new events with a name, date, and category.
